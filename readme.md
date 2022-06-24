@@ -3,7 +3,7 @@
 This repository contains code and data to replicate the results in "Net Load Forecasting using Different Aggregation Levels".
 
 >Maximilian Beichter, Kaleb Phipps, Martha Maria Frysztacki, Ralf Mikut, Veit Hagenmeyer and Nicole Ludwig (2022). “Net Load Forecasting using Different Aggregation
-Levels”. In: <to_insert> The Association for Computing Machinery, pp. 460–473. doi: [](<doi>)
+Levels”. In: <to_insert>. doi: [](<doi>)
 
 
 
