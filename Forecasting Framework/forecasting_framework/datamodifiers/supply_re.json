@@ -1,0 +1,38 @@
+{
+  "name": "supply_re",
+  "modifiers": [
+    "holiday",
+    "weekday",
+    "summertime",
+    "supply_agg_renewable",
+    "wind_weather_Offshore",
+    "wind_weather_Onshore",
+    "solar_weather",
+    "mismatch_demand_renewable",
+    "hours",
+    "lag"
+  ],
+  "datapath": "elec_s_100_ec_lv1.0_Co2L0.2-1H_cDE_y2010-2019_time.csv",
+  "cols": [
+    "name",
+    "offwind-ac",
+    "offwind-dc",
+    "onwind",
+    "curtailment-offwind-ac",
+    "curtailment-offwind-dc",
+    "curtailment-onwind",
+    "curtailment-ror",
+    "curtailment-solar",
+    "ror",
+    "solar",
+    "demand"
+  ],
+  "indexcol": "name",
+  "csv": true,
+  "pkl": false,
+  "save_csv": true,
+  "save_pkl": true,
+  "param_dict": {
+    "forecasting_variable": "supply_re"
+  }
+}

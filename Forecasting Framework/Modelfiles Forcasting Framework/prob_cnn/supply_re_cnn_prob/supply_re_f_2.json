@@ -1,0 +1,20 @@
+{
+  "folder": "prob/supply_re_f_2",
+  "forecast_variables": [
+    "supply_re"
+  ],
+  "modelname": "prob_cnn",
+  "modelparams_dict": {
+    "dist": "beta",
+    "scaleparam": 240
+  },
+  "name": "prob_cnn",
+  "plot_diagnostic": false,
+  "save_diagnostics": false,
+  "data_path": "supply_re/supply_re_0.pkl",
+  "train": false,
+  "features": [
+    "ssr_south",
+    "onwind_length_north"
+  ]
+}

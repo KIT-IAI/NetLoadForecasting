@@ -1,0 +1,17 @@
+{
+  "folder": "offshore_f_2",
+  "forecast_variables": [
+    "wind_agg_off_with_curtailment"
+  ],
+  "modelname": "cnn",
+  "modelparams_dict": {},
+  "name": "cnn",
+  "plot_diagnostic": false,
+  "save_diagnostics": false,
+  "data_path": "wind_offshore/wind_offshore_0.pkl",
+  "train": false,
+  "features": [
+    "length_north",
+    "length_east"
+  ]
+}

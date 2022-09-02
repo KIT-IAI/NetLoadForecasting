@@ -1,0 +1,27 @@
+{
+  "folder": "mismatch_f_6",
+  "forecast_variables": [
+    "mismatch_demand_renewable"
+  ],
+  "modelname": "mlp",
+  "modelparams_dict": {},
+  "name": "mlp",
+  "plot_diagnostic": false,
+  "save_diagnostics": false,
+  "data_path": "mismatch/mismatch_0.pkl",
+  "train": false,
+  "features": [
+    "ssr_south",
+    "length_north",
+    "onwind_length_north",
+    "onwind_length_middle",
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday",
+    "friday",
+    "saturday",
+    "sunday",
+    "lag_0"
+  ]
+}

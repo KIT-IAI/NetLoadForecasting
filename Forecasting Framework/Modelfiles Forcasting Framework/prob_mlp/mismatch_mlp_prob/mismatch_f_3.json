@@ -1,0 +1,22 @@
+{
+  "folder": "prob/mismatch_f_3",
+  "forecast_variables": [
+    "mismatch_demand_renewable"
+  ],
+  "modelname": "prob_mlp",
+  "modelparams_dict": {
+    "dist": "beta_with_min_max",
+    "scaleparam_min": -115,
+    "scaleparam_max": 93.75
+  },
+  "name": "prob_mlp",
+  "plot_diagnostic": false,
+  "save_diagnostics": false,
+  "data_path": "mismatch/mismatch_0.pkl",
+  "train": false,
+  "features": [
+    "ssr_south",
+    "onwind_length_north",
+    "onwind_length_middle"
+  ]
+}

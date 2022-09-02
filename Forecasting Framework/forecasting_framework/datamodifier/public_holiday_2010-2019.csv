@@ -1,0 +1,131 @@
+date,Day,gesetzl,public_Holiday,laender
+01.01.2010,Neujahr,1,1,
+06.01.2010,Heiligen Drei Koenige,1,0,"BW,BY,ST"
+02.04.2010,Karfreitag,1,1,
+05.04.2010,Ostermontag,1,1,
+01.05.2010,Maifeiertag,1,1,
+13.05.2010,Christi Himmelfahrt,1,1,
+24.05.2010,Pfingstmontag,1,1,
+03.06.2010,Fronleichnam,1,0,"BW,BY,HE,NRW,RP,SL, (SN,TH)"
+03.10.2010,Tag der Deutschen Einheit,1,1,
+31.10.2010,Reformationstag,1,0,"BB,MV,SN,ST,TH"
+01.11.2010,Allerheiligen,1,0,"BW,BY,NRW,RP,SL"
+25.12.2010,1. Weihnachtstag,1,1,
+26.12.2010,2. Weihnachtstag,1,1,
+01.01.2011,Neujahr,1,1,
+06.01.2011,Heiligen Drei Koenige,1,0,"BW,BY,ST"
+22.04.2011,Karfreitag,1,1,
+25.04.2011,Ostermontag,1,1,
+01.05.2011,Maifeiertag,1,1,
+02.06.2011,Christi Himmelfahrt,1,1,
+13.06.2011,Pfingstmontag,1,1,
+23.06.2011,Fronleichnam,1,0,"BW,BY,HE,NRW,RP,SL, (SN,TH)"
+03.10.2011,Tag der Deutschen Einheit,1,1,
+31.10.2011,Reformationstag,1,0,"BB,MV,SN,ST,TH"
+01.11.2011,Allerheiligen,1,0,"BW,BY,NRW,RP,SL"
+25.12.2011,1. Weihnachtstag,1,1,
+26.12.2011,2. Weihnachtstag,1,1,
+01.01.2012,Neujahr,1,1,
+06.01.2012,Heiligen Drei Koenige,1,0,"BW,BY,ST"
+06.04.2012,Karfreitag,1,1,
+09.04.2012,Ostermontag,1,1,
+01.05.2012,Maifeiertag,1,1,
+17.05.2012,Christi Himmelfahrt,1,1,
+28.05.2012,Pfingstmontag,1,1,
+07.06.2012,Fronleichnam,1,0,"BW,BY,HE,NRW,RP,SL, (SN,TH)"
+03.10.2012,Tag der Deutschen Einheit,1,1,
+31.10.2012,Reformationstag,1,0,"BB,MV,SN,ST,TH"
+01.11.2012,Allerheiligen,1,0,"BW,BY,NRW,RP,SL"
+25.12.2012,1. Weihnachtstag,1,1,
+26.12.2012,2. Weihnachtstag,1,1,
+01.01.2013,Neujahr,1,1,
+06.01.2013,Heiligen Drei Koenige,1,0,"BW,BY,ST"
+29.03.2013,Karfreitag,1,1,
+01.04.2013,Ostermontag,1,1,
+01.05.2013,Maifeiertag,1,1,
+09.05.2013,Christi Himmelfahrt,1,1,
+20.05.2013,Pfingstmontag,1,1,
+30.05.2013,Fronleichnam,1,0,"BW,BY,HE,NRW,RP,SL, (SN,TH)"
+03.10.2013,Tag der Deutschen Einheit,1,1,
+31.10.2013,Reformationstag,1,0,"BB,MV,SN,ST,TH"
+01.11.2013,Allerheiligen,1,0,"BW,BY,NRW,RP,SL"
+25.12.2013,1. Weihnachtstag,1,1,
+26.12.2013,2. Weihnachtstag,1,1,
+01.01.2014,Neujahr,1,1,
+06.01.2014,Heiligen Drei Koenige,1,0,"BW,BY,ST"
+18.04.2014,Karfreitag,1,1,
+21.04.2014,Ostermontag,1,1,
+01.05.2014,Maifeiertag,1,1,
+29.05.2014,Christi Himmelfahrt,1,1,
+09.06.2014,Pfingstmontag,1,1,
+19.06.2014,Fronleichnam,1,0,"BW,BY,HE,NRW,RP,SL, (SN,TH)"
+03.10.2014,Tag der Deutschen Einheit,1,1,
+31.10.2014,Reformationstag,1,0,"BB,MV,SN,ST,TH"
+01.11.2014,Allerheiligen,1,0,"BW,BY,NRW,RP,SL"
+25.12.2014,1. Weihnachtstag,1,1,
+26.12.2014,2. Weihnachtstag,1,1,
+01.01.2015,Neujahr,1,1,
+06.01.2015,Heiligen Drei Koenige,1,0,"BW,BY,ST"
+03.04.2015,Karfreitag,1,1,
+06.04.2015,Ostermontag,1,1,
+01.05.2015,Maifeiertag,1,1,
+14.05.2015,Christi Himmelfahrt,1,1,
+25.05.2015,Pfingstmontag,1,1,
+04.06.2015,Fronleichnam,1,0,"BW,BY,HE,NRW,RP,SL, (SN,TH)"
+03.10.2015,Tag der Deutschen Einheit,1,1,
+31.10.2015,Reformationstag,1,0,"BB,MV,SN,ST,TH"
+01.11.2015,Allerheiligen,1,0,"BW,BY,NRW,RP,SL"
+25.12.2015,1. Weihnachtstag,1,1,
+26.12.2015,2. Weihnachtstag,1,1,
+01.01.2016,Neujahr,1,1,
+06.01.2016,Heiligen Drei Koenige,1,0,"BW,BY,ST"
+25.03.2016,Karfreitag,1,1,
+28.03.2016,Ostermontag,1,1,
+01.05.2016,Maifeiertag,1,1,
+05.05.2016,Christi Himmelfahrt,1,1,
+16.05.2016,Pfingstmontag,1,1,
+26.06.2016,Fronleichnam,1,0,"BW,BY,HE,NRW,RP,SL, (SN,TH)"
+03.10.2016,Tag der Deutschen Einheit,1,1,
+31.10.2016,Reformationstag,1,0,"BB,MV,SN,ST,TH"
+01.11.2016,Allerheiligen,1,0,"BW,BY,NRW,RP,SL"
+25.12.2016,1. Weihnachtstag,1,1,
+26.12.2016,2. Weihnachtstag,1,1,
+01.01.2017,Neujahr,1,1,
+06.01.2017,Heiligen Drei Koenige,1,0,"BW,BY,ST"
+14.04.2017,Karfreitag,1,1,
+17.04.2017,Ostermontag,1,1,
+01.05.2017,Maifeiertag,1,1,
+25.05.2017,Christi Himmelfahrt,1,1,
+05.06.2017,Pfingstmontag,1,1,
+15.06.2017,Fronleichnam,1,0,"BW,BY,HE,NRW,RP,SL, (SN,TH)"
+03.10.2017,Tag der Deutschen Einheit,1,1,
+31.10.2017,Reformationstag,1,0,"BB,MV,SN,ST,TH"
+01.11.2017,Allerheiligen,1,0,"BW,BY,NRW,RP,SL"
+25.12.2017,1. Weihnachtstag,1,1,
+26.12.2017,2. Weihnachtstag,1,1,
+01.01.2018,Neujahr,1,1,
+06.01.2018,Heiligen Drei Koenige,1,0,"BW,BY,ST"
+30.03.2018,Karfreitag,1,1,
+02.04.2018,Ostermontag,1,1,
+01.05.2018,Maifeiertag,1,1,
+10.05.2018,Christi Himmelfahrt,1,1,
+21.05.2018,Pfingstmontag,1,1,
+31.05.2018,Fronleichnam,1,0,"BW,BY,HE,NRW,RP,SL, (SN,TH)"
+03.10.2018,Tag der Deutschen Einheit,1,1,
+31.10.2018,Reformationstag,1,0,"BB,MV,SN,ST,TH"
+01.11.2018,Allerheiligen,1,0,"BW,BY,NRW,RP,SL"
+25.12.2018,1. Weihnachtstag,1,1,
+26.12.2018,2. Weihnachtstag,1,1,
+01.01.2019,Neujahr,1,1,
+06.01.2019,Heiligen Drei Koenige,1,0,"BW,BY,ST"
+19.04.2019,Karfreitag,1,1,
+22.04.2019,Ostermontag,1,1,
+01.05.2019,Maifeiertag,1,1,
+30.05.2019,Christi Himmelfahrt,1,1,
+10.06.2019,Pfingstmontag,1,1,
+20.06.2019,Fronleichnam,1,0,"BW,BY,HE,NRW,RP,SL, (SN,TH)"
+03.10.2019,Tag der Deutschen Einheit,1,1,
+31.10.2019,Reformationstag,1,0,"BB,MV,SN,ST,TH"
+01.11.2019,Allerheiligen,1,0,"BW,BY,NRW,RP,SL"
+25.12.2019,1. Weihnachtstag,1,1,
+26.12.2019,2. Weihnachtstag,1,1,

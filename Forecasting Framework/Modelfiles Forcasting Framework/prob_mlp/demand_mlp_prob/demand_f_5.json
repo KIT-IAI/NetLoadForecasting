@@ -1,0 +1,28 @@
+{
+  "folder": "prob/demand_f_5",
+  "forecast_variables": [
+    "demand"
+  ],
+  "modelname": "prob_mlp",
+  "modelparams_dict": {
+    "dist": "normal"
+  },
+  "name": "prob_mlp",
+  "plot_diagnostic": false,
+  "save_diagnostics": false,
+  "data_path": "demand/demand_0.pkl",
+  "train": false,
+  "features": [
+    "public_holiday",
+    "monday",
+    "tuesday",
+    "wednesday",
+    "thursday",
+    "friday",
+    "saturday",
+    "sunday",
+    "lag_0",
+    "lag_4",
+    "lag_6"
+  ]
+}

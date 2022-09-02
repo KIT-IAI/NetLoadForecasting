@@ -1,0 +1,12 @@
+carrier,p_nom_opt
+biomass,0.839
+coal,28.069
+lignite,20.833
+load,100000000.000
+nuclear,15.788
+offwind-ac,3.576
+offwind-dc,16.553
+oil,3.696
+onwind,116.128
+ror,2.908
+solar,98.764

@@ -1,0 +1,18 @@
+{
+  "folder": "demand_f_3",
+  "forecast_variables": [
+    "demand"
+  ],
+  "modelname": "cnn",
+  "modelparams_dict": {},
+  "name": "cnn",
+  "plot_diagnostic": false,
+  "save_diagnostics": false,
+  "data_path": "demand/demand_0.pkl",
+  "train": false,
+  "features": [
+    "public_holiday",
+    "lag_0",
+    "lag_6"
+  ]
+}

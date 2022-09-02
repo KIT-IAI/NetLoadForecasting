@@ -1,0 +1,20 @@
+{
+  "folder": "prob/solar_f_2",
+  "forecast_variables": [
+    "solar_with_curtailment"
+  ],
+  "modelname": "prob_mlp",
+  "modelparams_dict": {
+    "dist": "beta",
+    "scaleparam": 99
+  },
+  "name": "prob_mlp",
+  "plot_diagnostic": false,
+  "save_diagnostics": false,
+  "data_path": "solar/solar_0.pkl",
+  "train": false,
+  "features": [
+    "ssr_south",
+    "lag_0"
+  ]
+}

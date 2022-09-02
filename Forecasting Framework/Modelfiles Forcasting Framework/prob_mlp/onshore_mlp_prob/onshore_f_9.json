@@ -1,0 +1,26 @@
+{
+  "folder": "prob/onshore_f_9",
+  "forecast_variables": [
+    "onwind_with_curtailment"
+  ],
+  "modelname": "prob_mlp",
+  "modelparams_dict": {
+    "dist": "gamma"
+  },
+  "name": "prob_mlp",
+  "plot_diagnostic": false,
+  "save_diagnostics": false,
+  "data_path": "wind_onshore/wind_onshore_0.pkl",
+  "train": false,
+  "features": [
+    "onwind_u100_north",
+    "onwind_u100_south",
+    "onwind_v100_north",
+    "onwind_v100_middle",
+    "onwind_v100_south",
+    "onwind_length_north",
+    "onwind_length_middle",
+    "onwind_length_south",
+    "lag_0"
+  ]
+}

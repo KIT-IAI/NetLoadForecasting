@@ -1,0 +1,22 @@
+{
+  "folder": "prob/solar_f_4",
+  "forecast_variables": [
+    "solar_with_curtailment"
+  ],
+  "modelname": "prob_cnn",
+  "modelparams_dict": {
+    "dist": "beta",
+    "scaleparam": 99
+  },
+  "name": "prob_cnn",
+  "plot_diagnostic": false,
+  "save_diagnostics": false,
+  "data_path": "solar/solar_0.pkl",
+  "train": false,
+  "features": [
+    "ssr_south",
+    "str_middle",
+    "summertime",
+    "lag_0"
+  ]
+}

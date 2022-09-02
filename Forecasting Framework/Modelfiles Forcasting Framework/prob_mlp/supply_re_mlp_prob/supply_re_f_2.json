@@ -1,0 +1,20 @@
+{
+  "folder": "prob/supply_re_f_2",
+  "forecast_variables": [
+    "supply_re"
+  ],
+  "modelname": "prob_mlp",
+  "modelparams_dict": {
+    "dist": "beta",
+    "scaleparam": 240
+  },
+  "name": "prob_mlp",
+  "plot_diagnostic": false,
+  "save_diagnostics": false,
+  "data_path": "supply_re/supply_re_0.pkl",
+  "train": false,
+  "features": [
+    "ssr_south",
+    "onwind_length_north"
+  ]
+}

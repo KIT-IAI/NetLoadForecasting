@@ -1,0 +1,23 @@
+{
+  "name": "ror_curtailment",
+  "modifiers": [
+    "ror_curtailment",
+    "summertime",
+    "hours",
+    "lag"
+  ],
+  "datapath": "elec_s_100_ec_lv1.0_Co2L0.2-1H_cDE_y2010-2019_time.csv",
+  "cols": [
+    "curtailment-ror",
+    "ror",
+    "name"
+  ],
+  "indexcol": "name",
+  "csv": true,
+  "pkl": false,
+  "save_csv": true,
+  "save_pkl": true,
+  "param_dict": {
+    "forecasting_variable": "ror_with_curtailment"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "folder": "solar_f_2",
+  "forecast_variables": [
+    "solar_with_curtailment"
+  ],
+  "modelname": "cnn",
+  "modelparams_dict": {},
+  "name": "cnn",
+  "plot_diagnostic": false,
+  "save_diagnostics": false,
+  "data_path": "solar/solar_0.pkl",
+  "train": false,
+  "features": [
+    "ssr_south",
+    "lag_0"
+  ]
+}

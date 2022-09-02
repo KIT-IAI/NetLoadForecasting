@@ -1,0 +1,19 @@
+{
+  "folder": "mismatch_f_4",
+  "forecast_variables": [
+    "mismatch_demand_renewable"
+  ],
+  "modelname": "cnn",
+  "modelparams_dict": {},
+  "name": "cnn",
+  "plot_diagnostic": false,
+  "save_diagnostics": false,
+  "data_path": "mismatch/mismatch_0.pkl",
+  "train": false,
+  "features": [
+    "ssr_south",
+    "onwind_length_north",
+    "onwind_length_middle",
+    "lag_0"
+  ]
+}

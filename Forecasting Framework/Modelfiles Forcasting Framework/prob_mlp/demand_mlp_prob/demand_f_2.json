@@ -1,0 +1,19 @@
+{
+  "folder": "prob/demand_f_2",
+  "forecast_variables": [
+    "demand"
+  ],
+  "modelname": "prob_mlp",
+  "modelparams_dict": {
+    "dist": "normal"
+  },
+  "name": "prob_mlp",
+  "plot_diagnostic": false,
+  "save_diagnostics": false,
+  "data_path": "demand/demand_0.pkl",
+  "train": false,
+  "features": [
+    "lag_0",
+    "lag_6"
+  ]
+}

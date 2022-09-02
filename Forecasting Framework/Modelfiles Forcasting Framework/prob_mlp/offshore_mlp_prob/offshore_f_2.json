@@ -1,0 +1,20 @@
+{
+  "folder": "prob/offshore_f_2",
+  "forecast_variables": [
+    "wind_agg_off_with_curtailment"
+  ],
+  "modelname": "prob_mlp",
+  "modelparams_dict": {
+    "dist": "beta",
+    "scaleparam": 21
+  },
+  "name": "prob_mlp",
+  "plot_diagnostic": false,
+  "save_diagnostics": false,
+  "data_path": "wind_offshore/wind_offshore_0.pkl",
+  "train": false,
+  "features": [
+    "length_north",
+    "length_east"
+  ]
+}

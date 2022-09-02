@@ -1,0 +1,21 @@
+{
+  "folder": "prob/offshore_f_3",
+  "forecast_variables": [
+    "wind_agg_off_with_curtailment"
+  ],
+  "modelname": "prob_cnn",
+  "modelparams_dict": {
+    "dist": "beta",
+    "scaleparam": 21
+  },
+  "name": "prob_cnn",
+  "plot_diagnostic": false,
+  "save_diagnostics": false,
+  "data_path": "wind_offshore/wind_offshore_0.pkl",
+  "train": false,
+  "features": [
+    "v100_east",
+    "length_north",
+    "length_east"
+  ]
+}

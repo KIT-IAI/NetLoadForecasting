@@ -1,0 +1,29 @@
+{
+  "folder": "onshore_f_14",
+  "forecast_variables": [
+    "onwind_with_curtailment"
+  ],
+  "modelname": "cnn",
+  "modelparams_dict": {},
+  "name": "cnn",
+  "plot_diagnostic": false,
+  "save_diagnostics": false,
+  "data_path": "wind_onshore/wind_onshore_0.pkl",
+  "train": false,
+  "features": [
+    "onwind_u100_north",
+    "onwind_u100_middle",
+    "onwind_u100_south",
+    "onwind_v100_north",
+    "onwind_v100_middle",
+    "onwind_v100_south",
+    "onwind_length_north",
+    "onwind_length_middle",
+    "onwind_length_south",
+    "lag_0",
+    "lag_3",
+    "lag_4",
+    "lag_5",
+    "lag_7"
+  ]
+}

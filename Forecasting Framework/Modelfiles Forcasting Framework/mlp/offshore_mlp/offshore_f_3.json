@@ -1,0 +1,21 @@
+{
+  "folder": "offshore_f_3",
+  "forecast_variables": [
+    "wind_agg_off_with_curtailment"
+  ],
+  "modelname": "mlp",
+  "modelparams_dict": {
+    "dist": "beta",
+    "scaleparam": 21
+  },
+  "name": "mlp",
+  "plot_diagnostic": false,
+  "save_diagnostics": false,
+  "data_path": "wind_offshore/wind_offshore_0.pkl",
+  "train": false,
+  "features": [
+    "v100_east",
+    "length_north",
+    "length_east"
+  ]
+}
