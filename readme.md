@@ -11,7 +11,7 @@ Levels".
 
 The authors acknowledge support by the state of Baden-Württemberg through bwHPC.
 
-We acknowledge the use of librarys like : 
+We acknowledge the use of Diebold Mariano test from John Tsang (https://github.com/johntwk/Diebold-Mariano-Test).
 
 ## Funding
 
@@ -25,7 +25,9 @@ Strategy – EXC number 2064/1 – Project number 390727645.
 
 The weather data used in this study are ERA5
 reanalysis data and openly available via the Copernicus Climate Data Store (CDS)
-https://cds.climate.copernicus.eu/home
+https://cds.climate.copernicus.eu/home .
+
+The PyPSA-Eur Data is available direct in the folder "PyPSA Data". To combine this data with our feature generation you need to launch the forecasting framework with the use of the ERA5 weather data.
 
 <h2>License</h2>
 
