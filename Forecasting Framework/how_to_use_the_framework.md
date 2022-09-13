@@ -4,7 +4,7 @@
 
 Data creation was run under Python 3.8. with an environment which is defined in requirements_data_creation.txt.
 Therefore, in the main.py file only the data creation part needs to be active. It combines the data of the future 
-energysytem with weather and calendar data.
+energysytem with weather and calendar data. Therefore, it was run under Ubuntu 18.04.5 LTS. 
 
 The base data is available at "Forecasting
 Framework/forecasting_framework/datamodifiers/data/elec_s_100_ec_lv1.0_Co2L0.2-1H_cDE_y2010-2019_time.csv"

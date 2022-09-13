@@ -5,7 +5,7 @@ Levels".
 
 > Maximilian Beichter, Kaleb Phipps, Martha Maria Frysztacki, Ralf Mikut, Veit Hagenmeyer and Nicole Ludwig (2022). “Net
 > Load Forecasting using Different Aggregation
-> Levels”. In: <to_insert>. doi: [](<doi>)
+> Levels”. In: Energy Informatics. doi: 10.1186/s42162-022-00213-8[]()
 
 ## Acknowledgements
 
