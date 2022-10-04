@@ -3,6 +3,9 @@
 In the code and in the documentation of the code there is mostly the term "mismatch" used. This is equivalent to the
 net load described in the paper. Here, it is meant as the mismatch between the load and the renewable energies.
 
+Furthermore, we deleted the urlib package in our requirements as it has security issues.
+We don't think this affect the reproducibility, but we didn't execute the code afterwards.
+
 # Reproducing the results
 
 In order to reproduce the results, it is important to perform each step individually and to observe the requirements

@@ -59,7 +59,7 @@ Feature List:
 ## Forcasting and Bayesian Optimization
 
 Forecasting was done using the support of BwUniCluster (Red Hat Enterprise Linux (RHEL) 7.7). Therefore, we use 3.8.6 with intel 19.1 compiler with the
-requirements given in "requirements_mismatch_forecast.txt".
+requirements given in "requirements_mismatch_forecast.txt". Some of the baysian optimisations regarding on featureset took up to 48 hours on a node of bw uni cluster. 
 
 ## Usage of modelfiles
 
